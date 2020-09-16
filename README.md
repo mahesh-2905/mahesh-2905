@@ -10,11 +10,9 @@
 - ⚡ Fun fact: I love to draw and play cricket and Listning to music
 - 👉 Belives in Everthing happens for our own good 😅
 - ✌️ Scilence is my Attitude 😎
-<br/>
-<br/>
 
-<br/>
-
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
