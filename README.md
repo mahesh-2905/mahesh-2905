@@ -1,5 +1,4 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px"></a> Hi there ,I'm Mahesh Kumar - can call me as Lucky 😉😍  
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## I'm an Undergraduating Engineer , Developer , Loves coding!
 
@@ -10,7 +9,10 @@
 - ⚡ Fun fact: I love to draw and play cricket and Listning to music
 - 👉 Belives in Everthing happens for our own good 😅
 - ✌️ Scilence is my Attitude 😎
-
+<br/>
+<br/>
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="600" height="380" />
+<br/>
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
