@@ -1,4 +1,4 @@
-# Hi there 👋,I'm Mahesh Kumar -can call me as Lucky 😉😍  
+# Hi there 👋,I'm Mahesh Kumar - can call me as Lucky 😉😍  
 <hr/>
 ## I'm a Undergraduating Engineer , Developer , Loves coding!
 
