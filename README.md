@@ -1,8 +1,8 @@
 # <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42px"></a> Hi there ,I'm Mahesh Kumar - can call me as Lucky 😉😍  
 
-## I'm an Undergraduating Engineer , Developer and Loves😍 Coding....!
+##    I'm an Undergraduating Engineer , Developer and Loves😍 Coding....!
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"  height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"  height="300" />
 
 - 🔭 I’m currently working on a website similar to Zomato Cool..!😅
 - 🌱 I’m currently learning everything 🤣
