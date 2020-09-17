@@ -2,7 +2,7 @@
 
 ## I'm an Undergraduating Engineer , Developer and Loves😍 Coding....!
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" margin-top="50" height="350" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"  height="350" />
 
 - 🔭 I’m currently working on a website similar to Zomato Cool..!😅
 - 🌱 I’m currently learning everything 🤣
