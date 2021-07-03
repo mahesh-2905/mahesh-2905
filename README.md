@@ -4,11 +4,10 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500"  height="350" />
 
-- 🔭 I’m currently working on a website similar to Zomato Cool..!😅
+- 🔭 I’m currently working on Pathfinding Visualizer Cool..!😅
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn new things as much as possible
-- ⚡ Fun fact: I love to draw and play cricket and Listning to music
+- 🥅 2021 Goals: learn new things as much as possible
+- ⚡ Fun fact: I love to draw, play cricket and Listning to music
 - 👉 Belives in Everthing happens for our own good 😅
 - ✌️ Scilence is my Attitude 😎
 
